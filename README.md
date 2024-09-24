@@ -47,7 +47,7 @@ Before running the script, make sure you have the following installed:
    pip install selenium
    ```
 3. **ChromeDriver**: 
-   - Download the correct version of ChromeDriver that matches your version of Chrome from [here](https://sites.google.com/a/chromium.org/chromedriver/downloads).
+   - Download the correct version of ChromeDriver that matches your version of Chrome.
    - Ensure the path to the ChromeDriver executable is correctly set in the script.
 
 4. **Pandas**: Install Pandas using pip:
