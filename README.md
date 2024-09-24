@@ -94,7 +94,7 @@ Before running the script, make sure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/football-match-scraper.git
+   git clone https://github.com/chaitusai14/Web-Scraping-Football-Match-Data-with-Selenium.git
    ```
    
 2. Set up your environment:
